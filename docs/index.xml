@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>BLOG</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Thu, 20 Nov 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <pubDate>Thu, 20 Nov 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <pubDate>Mon, 17 Nov 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>La Primera Vez</title>
+  <link>https://your-website-url.example.com/posts/laprimeravez/vezprimera.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Ese día llega. Tarde o temprano llega. Algunos tienen la suerte de hacerlo cuándo son alumnos y otros no lo hacen hasta que llegan a Primer Oficial. Unos son diestros desde el principio, y otros necesitan mucha experiencia para dominar el arte de la maniobra. Algunos nunca lo consiguen. El mismo problema, con infinitas maneras de ser resuelto, y todas con la misma solución: llevar el barco de manera segura de A a B. Unos en barcos grandes y otros en pequeños. Yo lo tengo hecho en esloras diez veces menores. Pero nunca en uno así.</p>
+<p>En mi caso la primera vez ha sido en Montrose, Escocia. El práctico estaba previsto para las 14.15 HL. Nos íbamos con la pleamar. Sin ella no podíamos salir. Íbamos en lastre. Terminamos de descargar el día anterior el equipamiento que nos sobró después de dar fondo a 8 anclas para el Stena Don. Hicimos 300 metros cúbicos de combustible la noche anterior, y tocaba partir al siguiente. El spotmarket del Mar del Norte es así: estábamos previstos para la marea anterior pero los contratos e intereses comerciales mandan.</p>
+<p>El caso es que aquel día, después de unos cuántos papando bastante frío en cubierta conectando anclas, me aposté en el puente para la maniobra, pendiente de las últimas noticias. No bajé a cubierta ayudar al contramaestre. El Primero ya sabía que no había tenido la oportunidad hasta ahora, y le preguntó al Capitán tras consultarme, si yo podía hacer la maniobra.</p>
+<p>Pocas palabras después y tras algún signo de duda, la oportunidad era mía. Empecé a hablar con el primero de cómo hacerlo. Cómo comprobar hélices transversales, timones, e incluso los principales (ajustando el timón para que el empuje abarloe aún más el barco si cabe). Estudié la maniobra. Hice una cronología por pasos en mi cabeza y se la recité, para que quedara claro qué era lo que tenía que hacer: lelvar el barco de A a B de manera segura se dice muy fácil, pero hacerlo es muy distinto, sobre todo la primera vez.</p>
+<p>Me senté en la silla, y puse el barco en el centro de la pantalla del ECDIS. Estudie el valor que manejaba la giro: 310º. Tenía que dar el reviro completo, así que tendría que llegar al 130º seguro si queríamos sacar el barco de allí.</p>
+<p>Embarcó el práctico. El contra ya en la grúa izaba la plancha. Dos prácticos. Yo esperando. Un sólo amarrador anunciaron. Acordamos que se empezaría por las líneas de popa. La verdad que entre los nervios y su tosco acento escocés ya sólo me concentraba en visualizar a vista de pájaro que e s lo que quería hacer, y cómo lo quería hacer. El capitán sale a echar un pito en lo que hace de banksman para el contra.</p>
+<p>Veo al contra pasar por el puente hacia la cubierta de proa. Dos marineros a popa. El práctico llama al linesman por radio. Pongo las transversales a empujar contra el muelle. Una defensa bastante a popa no me lo va a poner fácil. El segundo me advierte: si te pasas con la hélice de proa, vas a traerla contra el muelle, así que fuerte con la de popa.</p>
+<p>Empezamos a largar: un largo primero. El marinero llama para confirmar si puede seguir, está claro que no se han enterado reza el primero. Libre a popa y seguimos por proa. Con los largos ya a bordo el barco empieza a moverse a proa. La corriente era de 0.8 nudos a la entrante cuando empezamos a largar. Se nota. Tip del segundo: enfila alguna parte del barco con una referencia en tierra. Me siento gilipoyas: parece obvio, pero no lo es. Ok. Referncia en la barandilla del crasrail de babor. Esquina con la viga del contenedor que hay en el muelle.</p>
+<p>Meto más máquina y la proa empieza a caer demasiado rápido. Reduzco y recupera. Me cuesta encontrar el equilibrio pero lo encuentro. Llama el contra. Libre a proa. Paso a cero y cambio toda. Recuerda: a proa 2000 kW. A popa sólo 1000kW. Pon a popa siempre el doble que a proa.</p>
+<p>Empiezo. Bastante bien. Mantengo la proa en la alineación del 312. Nos separamos. Va bien la cosa. Juego con las transversales. Me separo unos metros y veo que no sólo nos movemos lateralmente sino que además avanzamos. Extraño. Bueno no, era de esperar: un nudo a la entrante. Meto una palada atrás con los dos principales. El factor sigue mostrando avante y el segundo nos advierte a mí y al primero: unos segundos es poco. El capitán se pone un poco más nervioso y me recuerda que busque una enfilación por el costado. De enfilación proa-popa seguimos bien. Hemos ganado algo de velocidad lateral y no me gusta. Empiezo a anticipar el reviro. Demasiado cerca aún. El práctico me informa de un shallow patch más a proa. Creo que bromeaba. Los demás se ríen. Así que entiendo que sí.</p>
+<p>Se han quedado las hélices dadas atrás y ahora es demasiado. Necesitamos dar avante. El primero coge los mandos desde detrás del respaldo. Da avante bastante fuerte. 20 - 20? De repente tenemos prisa. Todo el mundo da su opinión Unos segundos y ves todo el awash de las hélices salir. Mierda. Un vistazo al factor en el ECDIS y es enorme. Avante claro. El Capitán se pone nervioso. No le gusta.</p>
+<p>Corrijo y doy atrás con el consejo del primero. Ya hemos ganado bastante al muelle así que empieza el reviro. La arrancada parada y ponemos a cero. Aggressive dice Míster Pilot. Agressive? pregunto en voz alta. La respuesta es afirmativa. Pero me faltan bemoles. Normal. Es la primera vez. Fuerte con la hélice de proa a estribor. La de popa a babor. Algo de arrancada nos queda. Mejor. Así en el reviro la popa se sigue separando del muelle. 60 proa estribor 25 popa babor. Esto va a toda velocidad. Yuuuuu. Siento que pierdo el control. El giro es bueno pero no siento tener la situación bajo control.</p>
+<p>Cuando estamos en el 000º pregunto para reducir y empiezo a reducir. Queda poco para el 130º con el Rate of Turn que llevamos. El barco pierde inercia. Bien. Pestañeo y el segundo ya está pidiendo el control a proa. Set to zero? pregunto.</p>
+<p>Todo a cero. Reviro completado y salimos.</p>
+<p>El resto de la maniobra fue lo usual. Rápidamente el 2º corrigió el R.O.T por medio de los principales y timón. Flipante que el barco en cuánto cogió arrancada cayó a rumbo en cuestión de segundos. Que salvajada de potencia.</p>
+<p>Práctico dando instrucciones. Seguimos pasando marcas. Un pequeño reviro. Pasamos la barra de la ría. Escala por estribor pero la lancha de prácticos tiene miedo de poner en el mezzanine deck. Que tristeza: por inguno y por los dos. La marinería transfiere a babor.</p>
+<p>Acompaño al práctico a la escala. Fin de la maniobra. Ha salido bien. Más o menos cómo la primera vez. Subo al puente. Todos sabemos que ha sido gracias al primero, pero en un acto político le doy las gracias a todos. y personalmente al Capitán por dejarme sentarme en la silla: no todo el mundo está dispuesto a dejarte hacerlo.</p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/laprimeravez/vezprimera.html</guid>
+  <pubDate>Sun, 23 Nov 2025 19:02:54 GMT</pubDate>
+</item>
+</channel>
+</rss>
