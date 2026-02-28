@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  description: "Nerdie spanish seafarer sailing in the offshore"
+  description: "Blog personal de Daniel M.  A veces escribo desde alta mar. Otras desde tierra. Geek a bordo."
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "Offshore Tiger"
+  title: "Daniel Menéndez"
   navbar:
     right:
       - about.qmd
@@ -16,8 +16,7 @@ website:
 format:
   html:
     theme:
-      - litera
-      - brand
+      - lumen
     css: styles.css
 
 

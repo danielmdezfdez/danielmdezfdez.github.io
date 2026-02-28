@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://your-website-url.example.com/un-mal-dia.html</loc>
-    <lastmod>2025-11-23T18:54:48.380Z</lastmod>
+    <lastmod>2026-02-28T14:42:53.560Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2025-11-21T19:41:49.295Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2025-11-21T19:41:49.295Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2025-11-21T19:41:49.296Z</lastmod>
+    <lastmod>2026-02-28T14:42:53.558Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/laprimeravez/vezprimera.html</loc>
-    <lastmod>2025-11-21T20:27:51.179Z</lastmod>
+    <lastmod>2026-02-28T14:42:53.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <lastmod>2026-02-28T14:42:53.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <lastmod>2026-02-28T14:42:53.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/preparando-la-singladura.html</loc>
+    <lastmod>2026-02-28T15:08:21.978Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/about.html</loc>
-    <lastmod>2025-11-21T19:41:49.297Z</lastmod>
+    <lastmod>2026-02-28T14:42:53.549Z</lastmod>
   </url>
 </urlset>
