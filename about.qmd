@@ -1,19 +1,18 @@
 ---
 title: "About"
 image: profile.jpg
+image-width: 60%
 about:
-  template: jolla
+  template: solana
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/feed/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/danielmdezfdez
 ---
 
-About this blog
+![](images/profile.jpg){fig-align="center"}
+
+Mi nombre es Daniel Menéndez. Me gradué en Náutica y Transporte Marítimo por la Universidad de Oviedo y soy Piloto de 2ª de la Marina Mercante. Desde muy pequeño siempre me gusto el mundo de la náutica y desde entonces no he parado.
