@@ -1,9 +1,10 @@
 ---
-title: "About"
+title: "Sobre mí"
 image: profile.jpg
 image-width: 60%
 about:
-  template: solana
+  template: jolla
+  image: profile.jpg
   links:
     - icon: linkedin
       text: LinkedIn
@@ -13,6 +14,6 @@ about:
       href: https://github.com/danielmdezfdez
 ---
 
-![](images/profile.jpg){fig-align="center"}
+Mi nombre es Daniel Menéndez. Me gradué en Náutica y Transporte Marítimo por la Universidad de Oviedo y soy Piloto de 2ª de la Marina Mercante. Desde muy pequeño siempre me gusto el mundo de la náutica y desde entonces no he parado de navegar.
 
-Mi nombre es Daniel Menéndez. Me gradué en Náutica y Transporte Marítimo por la Universidad de Oviedo y soy Piloto de 2ª de la Marina Mercante. Desde muy pequeño siempre me gusto el mundo de la náutica y desde entonces no he parado.
+![](images/profile.jpg){fig-align="center"}

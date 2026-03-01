@@ -1,0 +1,33 @@
+---
+title: "Por eso Quarto"
+author: "Daniel Menéndez"
+date: "2026-03-01"
+---
+
+Soy Marino. Pero además soy un programador frustrado. Cómo dice el credo de los programadores:
+
+> Hacemos esto no porque sea fácil, sino porque habíamos pensado que iba a ser fácil.
+>
+> @Pinboard
+
+*Quarto* entro en mi vida poco después de cursar unas asignaturas del curso preparatorio para el Máster en Ciencia de Datos de la Universidad Abierta de Catalunya (UOC). Por aquel entonces yo ya me había entretenido montando enésimas todo lo necesario para tener mi propio blog en el que nunca llegaba a escribir nada: lo construía, me olvidaba, no lo mantenía, lo borraba y lo volvía a construir.
+
+Pero tenía una idea germinando en la cabeza. Y quería seguir adelante. Queria expresarme, quería escribir, quería seguir fotografíando y nunca supe muy bien como canalizarlo. Me gusta la ingeniería, me gusta la escritura técnica pero nunca tuve agallas para aprender a escribir artículos técnicos o científicos. Y después de aprender R Markdown en la asignatura de Fundamentos de Estadística para la UOC, descubrí *Quarto*.
+
+Entre las razones por la que me quedé con Quarto destaca la idea de que siempre me gustó construir una *wiki*. Tampoco supe nunca de qué, pero cuando descubrí el sistema Zetelkasten, Obsidian entró en mi vida personal, y mi *vault* de Obsidian, es mi Segundo Cerebro de Tiago Forte.
+
+> Nunca, nunca, nunca, dejes que ningún iluminado en YouTube te diga como tienes que organizar tus archivos. Puede, literalmente, cortocircuitar tu vida.
+>
+> @Daniel Menendez
+
+Y mi idea seguía germinando y germinando. Cuándo me saqué el título de Patrón de Embarcaciones de Recreo a los dieciseis años, me di cuenta que una de las mayores dificultades para todos los que se enfrentan a la navegación, no es otra que la del lenguaje espacial en las cartas náuticas. Y de ahí, mientras hacía mis pinitos con un canal de YouTube, se me ocurrió que usando CAD, podía enseñar a resolver los ejercicios de carta a cualquier persona interesada.
+
+Fue una idea que tampoco fraguó, pero siguió ahí, en mi estantería mental. No era un proyecto prioritario: nunca quise dedicarle el tiempo, las ganas y los recursos necesarios para hacerlo, pero siempre me parecio muy interesante.
+
+Con el título de Piloto de la Marina Mercante bajo el brazo, la idea maduró, principalmente porque me podía dedicar profesionalmente a compartir con otros algo de conocimiento: al fin y al cabo, no es *rocket science*.
+
+Y aquí entra Quarto. Quarto permite publicar libros, artículos, blogs, con código, sin código, técnicos, no técnicos, de manera estándar, con contenido dinámico (snippets de código) y utilizando *markdown -* sí, me encanta markdown - sin mayores complicaciones. Con una interfaz visual bonita y sencilla, pero a su vez personalizable. Ah sí, y es de código abierto.
+
+Y por eso Quarto. Con Quarto puedo, publicar los libros de mi Escuela Náutica con seguridad. Con un alto estándar de calidad, con una interfaz amable para todos los interesados y con la interoperabilidad que es el texto plano. Y por eso Quarto, porque con QUarto también puedo escribir este blog de manera sencilla con vosotros.
+
+Por eso Quarto.
