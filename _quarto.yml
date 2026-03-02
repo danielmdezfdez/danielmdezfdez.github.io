@@ -8,7 +8,7 @@ website:
   title: "Daniel Menéndez"
   navbar:
     right:
-      - href: index.qmd
+      - href: index.html
         text: Inicio
       - about.qmd
       - icon: github
