@@ -28,5 +28,8 @@
   },
   "posts/blablablabla.qmd": {
     "blablablabla.html": "1a80ef6f"
+  },
+  "posts/otrapruebadegithubactions/actions.qmd": {
+    "actions.html": "ad24d971"
   }
 }

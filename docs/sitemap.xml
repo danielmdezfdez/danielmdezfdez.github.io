@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://your-website-url.example.com/un-mal-dia.html</loc>
-    <lastmod>2026-02-28T14:42:53.560Z</lastmod>
+    <lastmod>2026-03-02T15:23:47.428Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-03-02T15:12:53.730Z</lastmod>
+    <lastmod>2026-03-02T15:23:47.426Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/laprimeravez/vezprimera.html</loc>
-    <lastmod>2026-02-28T14:42:53.559Z</lastmod>
+    <lastmod>2026-03-02T15:23:47.426Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/blablablabla.html</loc>
-    <lastmod>2026-03-02T13:23:17.623Z</lastmod>
+    <lastmod>2026-03-02T15:23:47.426Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/otrapruebadegithubactions/actions.html</loc>
+    <lastmod>2026-03-02T15:23:47.427Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/sobrequarto/sobrequarto.html</loc>
-    <lastmod>2026-03-01T13:57:05.611Z</lastmod>
+    <lastmod>2026-03-02T15:23:47.427Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/toda-avante.html</loc>
-    <lastmod>2026-02-28T15:11:48.813Z</lastmod>
+    <lastmod>2026-03-02T15:23:47.427Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/about.html</loc>
-    <lastmod>2026-03-01T13:36:06.980Z</lastmod>
+    <lastmod>2026-03-02T15:23:47.413Z</lastmod>
   </url>
 </urlset>
