@@ -9,8 +9,8 @@
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog personal de Daniel M.  A veces desde alta mar. Otras desde tierra. Geek a bordo.</description>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Sat, 28 Feb 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Sun, 01 Mar 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Por eso Quarto</title>
   <dc:creator>Daniel Menéndez</dc:creator>
@@ -44,40 +44,7 @@
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/sobrequarto/sobrequarto.html</guid>
-  <pubDate>Sat, 28 Feb 2026 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Publica directamente en Quarto con GitHub Actions</title>
-  <link>https://your-website-url.example.com/posts/otrapruebadegithubactions/actions.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>probando como funciona</p>
-
-
-
- ]]></description>
-  <guid>https://your-website-url.example.com/posts/otrapruebadegithubactions/actions.html</guid>
-  <pubDate>Mon, 02 Mar 2026 15:24:16 GMT</pubDate>
-</item>
-<item>
-  <title>BlaBlaBla</title>
-  <link>https://your-website-url.example.com/posts/blablablabla.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-
- ]]></description>
-  <guid>https://your-website-url.example.com/posts/blablablabla.html</guid>
-  <pubDate>Mon, 02 Mar 2026 15:24:16 GMT</pubDate>
+  <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>La Primera Vez</title>
@@ -110,7 +77,23 @@
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/laprimeravez/vezprimera.html</guid>
-  <pubDate>Mon, 02 Mar 2026 15:24:16 GMT</pubDate>
+  <pubDate>Mon, 02 Mar 2026 15:25:05 GMT</pubDate>
+</item>
+<item>
+  <title>BlaBlaBla</title>
+  <link>https://your-website-url.example.com/posts/blablablabla.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/blablablabla.html</guid>
+  <pubDate>Mon, 02 Mar 2026 15:25:05 GMT</pubDate>
 </item>
 <item>
   <title>La Primera Vez</title>
@@ -136,7 +119,24 @@
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/toda-avante.html</guid>
-  <pubDate>Mon, 02 Mar 2026 15:24:16 GMT</pubDate>
+  <pubDate>Mon, 02 Mar 2026 15:25:05 GMT</pubDate>
+</item>
+<item>
+  <title>Publica directamente en Quarto con GitHub Actions</title>
+  <link>https://your-website-url.example.com/posts/otrapruebadegithubactions/actions.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>probando como funciona</p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/otrapruebadegithubactions/actions.html</guid>
+  <pubDate>Mon, 02 Mar 2026 15:25:05 GMT</pubDate>
 </item>
 </channel>
 </rss>

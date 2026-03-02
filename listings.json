@@ -2,10 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/otrapruebadegithubactions/actions.html",
-      "/posts/blablablabla.html",
       "/posts/laprimeravez/vezprimera.html",
+      "/posts/blablablabla.html",
       "/posts/toda-avante.html",
+      "/posts/otrapruebadegithubactions/actions.html",
       "/posts/sobrequarto/sobrequarto.html"
     ]
   }
