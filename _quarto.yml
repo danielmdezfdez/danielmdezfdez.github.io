@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  description: "Blog personal de Daniel M.  A veces escribo desde alta mar. Otras desde tierra. Geek a bordo."
+  description: "Blog personal de Daniel M.  A veces desde alta mar. Otras desde tierra. Geek a bordo."
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
   title: "Daniel Menéndez"
   navbar:
