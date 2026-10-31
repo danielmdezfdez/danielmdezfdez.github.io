@@ -12,29 +12,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-### This content appears above the formatted about page content.
 
-:::{#hero-heading}
-
-Soy Daniel Menéndez, un apasionado de la náutica y la programación. Me gradué en Náutica y Transporte Marítimo por la Universidad de Oviedo y soy Piloto de 2ª de la Marina Mercante. Desde muy pequeño siempre me gustó el mundo de la náutica y de la tecnología. Desde entonces no he parado de navegar y de aprender a programar. Me fascina la ingeniería, la escritura técnica y la fotografía.
-
-## Education
-
-Escuela Superior de Marina Civil de Gijón, Universidad de Oviedo | Gijón, Asturias
-Grado en Náutica y Transporte Marítimo | Sept 2021 - June 2022
-
-Escuela Superior de Marina Civil de Gijón, Universidad de Oviedo | Gijón, Asturias
-Máster en Náutica y Transporte Marítimo | Sept 2021 - June 2022
-
-Universidad Internacional de la Rioja, UNIR | La Rioja, España
-Máster en Prevención de Riesgos Laborales | Sept 2022 - Junio 2023
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.

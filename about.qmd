@@ -14,6 +14,32 @@ about:
       href: https://github.com/danielmdezfdez
 ---
 
-Mi nombre es Daniel Menéndez. Me gradué en Náutica y Transporte Marítimo por la Universidad de Oviedo y soy Piloto de 2ª de la Marina Mercante. Desde muy pequeño siempre me gusto el mundo de la náutica y desde entonces no he parado de navegar.
+### Sobre mí
 
-![](images/profile.jpg){fig-align="center"}
+:::{#hero-heading}
+
+Soy Daniel Menéndez, un apasionado de la náutica y la programación. Me gradué en Náutica y Transporte Marítimo por la Universidad de Oviedo y soy Piloto de 2ª de la Marina Mercante. Desde muy pequeño siempre me gustó el mundo de la náutica y de la tecnología. Desde entonces no he parado de navegar y de aprender a programar. Me fascina la ingeniería, la escritura técnica y la fotografía.
+
+## Education
+
+Escuela Superior de Marina Civil de Gijón, Universidad de Oviedo | Gijón, Asturias
+Grado en Náutica y Transporte Marítimo | Sept 2021 - June 2022
+
+Escuela Superior de Marina Civil de Gijón, Universidad de Oviedo | Gijón, Asturias
+Máster en Náutica y Transporte Marítimo | Sept 2021 - June 2022
+
+Universidad Internacional de la Rioja, UNIR | La Rioja, España
+Máster en Prevención de Riesgos Laborales | Sept 2022 - Junio 2023
+
+## Experience
+
+Boka Tiamat - Boskalis Offshore | 3er Oficial de Puente | Mayo de 2026 - Actualidad
+Boka Fulmar - Boskalis Offshore | Alumno de Puente | Febrero de 2026 - Mayo de 2026
+Boka Tiamat - Boskalis Offshore | Alumno de Puente | Diciembre de 2025 - Febrero de 2026
+Boka Fulmar - Boskalis Offshore | Alumno de Puente | Mayo de 2026 - Actualidad
+
+Boka Tiamat - Boskalis Offshore | 3er Oficial de Puente | Mayo de 2026 - Actualidad
+
+:::
+
+
