@@ -2,12 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/laprimeravez/vezprimera.html",
-      "/posts/blablablabla.html",
       "/posts/toda-avante.html",
-      "/posts/otrapruebadegithubactions/actions.html",
-      "/posts/sobrequarto/sobrequarto.html",
-      "/posts/unaentradamas/sobrequarto.html"
+      "/posts/blablablabla.html",
+      "/posts/20260301_Quarto/sobrequarto.html"
     ]
   }
 ]
