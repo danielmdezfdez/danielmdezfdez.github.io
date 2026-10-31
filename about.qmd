@@ -8,7 +8,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/feed/
+      href: https://www.linkedin.com/in/danielmdezfdez/
     - icon: github
       text: Github
       href: https://github.com/danielmdezfdez
