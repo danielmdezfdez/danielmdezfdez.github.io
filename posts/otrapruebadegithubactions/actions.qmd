@@ -1,7 +1,0 @@
----
-title: "Publica directamente en Quarto con GitHub Actions"
-format: html
----
-donde esta esta entrada
-
-probando como funciona
